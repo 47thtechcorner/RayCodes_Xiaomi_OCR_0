@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://youtu.be/aq4sCiFtxFw">
+    <img src="https://img.youtube.com/vi/aq4sCiFtxFw/0.jpg" alt="Xiaomi OCR 0: The 0.8B AI That Destroys Qwen 3.5 on CPU!">
+  </a>
+  <h3>📺 <a href="https://youtu.be/aq4sCiFtxFw">Watch the full tutorial on YouTube</a></h3>
+</div>
+
 # Xiaomi-OCR-0: Unified 0.8B Edge Document Engine
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -6,6 +13,7 @@
 [![Local Footprint](https://img.shields.io/badge/VRAM%20Footprint-~700%20MB%20(Q4__K__M)-purple.svg)](https://ollama.com/richardyoung/xiaomi-ocr-0)
 
 > "Xiaomi-OCR-0 is an ultra-compact 0.8B vision-language model purpose-built by Xiaomi Research for document parsing, formula extraction, and OCR-centric visual understanding. Outperforming 2B and 4B models on real-world recaptured scans, it runs completely offline on consumer hardware."
+
 
 ---
 
@@ -60,5 +68,6 @@ python main.py
 
 ---
 
-<sub>**Keywords:** Xiaomi OCR, Xiaomi 0.8B, OmniDocBench OCR, Qwen3.5 killer, local OCR, offline OCR, Ollama setup, edge parsing, LaTeX extraction, document AI, receipt extraction, invoice scanner, airgapped AI, QMask anchoring, MixRL rewards, table reconstruction, OTSL tables, vision AI, cursive transcription, calligraphy AI, CPU OCR, 4GB VRAM, local LLM, document parsing, offline parsing, math digitizer, formula scan, thesis AI, academic OCR, GGUF OCR, local setup, edge AI, small VRAM, local deployment, privacy AI, secure OCR, free OCR, cloud alternative, AI extraction, text recognition, vision model, local vision, offline extraction, data entry, automated bookkeeping, local finance, receipt AI, invoice AI, Xiaomi Research, open source</sub>
+<sub>**Keywords:** Xiaomi OCR, Xiaomi 0.8B, local OCR, offline OCR, document AI, CPU OCR, document parsing, offline parsing, secure OCR, text recognition, vision model, local vision, offline extraction, receipt AI, invoice AI, Xiaomi OCR 0, Xiaomi OCR model, Xiaomi OCR Ollama, Xiaomi OCR 0.8B, Xiaomi AI OCR, Xiaomi OCR local, open source OCR, OCR model, math OCR, handwriting OCR, cursive OCR, invoice extraction AI, receipt OCR, OCR benchmark, Xiaomi vs Qwen, local document AI</sub>
+
 
