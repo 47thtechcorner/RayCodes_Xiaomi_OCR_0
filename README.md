@@ -1,9 +1,10 @@
 <div align="center">
-  <a href="https://youtu.be/aq4sCiFtxFw">
-    <img src="https://img.youtube.com/vi/aq4sCiFtxFw/0.jpg" alt="Xiaomi OCR 0: The 0.8B AI That Destroys Qwen 3.5 on CPU!">
+  <a href="https://youtu.be/2AGXYEQDa-E">
+    <img src="https://img.youtube.com/vi/2AGXYEQDa-E/0.jpg" alt="Xiaomi OCR 0: The 0.8B AI That Destroys Qwen 3.5 on CPU!">
   </a>
-  <h3>📺 <a href="https://youtu.be/aq4sCiFtxFw">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/2AGXYEQDa-E">Watch the full tutorial on YouTube</a></h3>
 </div>
+
 
 # Xiaomi-OCR-0: Unified 0.8B Edge Document Engine
 
